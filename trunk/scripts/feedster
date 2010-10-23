@@ -1,0 +1,3 @@
+url=http://dl-data.demo.marklogic.com:9000/feed/admin/lib/subscription-check.xqy
+
+wget --spider $url

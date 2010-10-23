@@ -1,0 +1,5 @@
+run this script on a periodic basis to keep subscriptions up to date
+
+for example, to run the script every 10 minutes use this cron command:
+crontab -e
+*/10 * * * * <root-directory>/scripts/feedster
