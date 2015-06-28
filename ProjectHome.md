@@ -1,0 +1,1 @@
+a basic library for collecting and searching rss feeds with marklogic
